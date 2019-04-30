@@ -17,7 +17,7 @@ export default class Background extends React.Component {
             this.setState({
                 color: newColor
             },
-            () => {document.querySelector('body').style.backgroundColor = this.state.color}
+            () => { document.querySelector('body').style.backgroundColor = this.state.color }
             );
         }
         // this.setState is asynchronous, for this reason we want to chain the selector update inside it 

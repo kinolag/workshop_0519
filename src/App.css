@@ -47,6 +47,14 @@
   color: white;
 }
 
+.opacity-0-50 {
+  opacity: 0.50;
+}
+
+.opacity-0-75 {
+  opacity: 0.75;
+}
+
 .pad-10 {
   padding: 10px;
 }

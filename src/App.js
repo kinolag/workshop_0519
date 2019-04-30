@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Intro />
-        <img className="App-logo" src={ball} alt="basketball" />
+        <img className="App-logo opacity-0-75" src={ball} alt="basketball" />
       </header>
       <p className="is-white">Some works on:</p>
       <a
