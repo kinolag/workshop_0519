@@ -39,12 +39,41 @@
   font-size: calc(10px + 2vmin);
 }
 
+.bcStyle { 
+  width: 25%;
+  height: 42px; /* default, not really necassary */
+  border: 3px solid teal;
+}
+
+.column-c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .link1 {
-  color: #FFCC00;
+  color: #e99708; /*#FFCC00;*/
 }
 
 .is-white {
   color: white;
+}
+
+.txt-l {
+  text-align: left;
+}
+
+.txt-c {
+  text-align: center;
+}
+
+.txt-r {
+  text-align: right;
+}
+
+.top {
+  align-items: flex-start;
 }
 
 .opacity-0-50 {
