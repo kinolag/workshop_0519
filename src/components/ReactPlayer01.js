@@ -11,7 +11,8 @@ export default class Player extends Component {
         <ReactPlayer url='https://soundcloud.com/modernlove/06-luxury-problems?in=modernlove/sets/andy-stott-luxury-problems-1' controls height='320'/>
         <br /><br />
         <ReactPlayer url='https://www.youtube.com/watch?v=TvEC7A7IoMU&list=PL3wUEM4g4GuI8CdUii3GRALz4p5eeAid-' controls light playlist />
-
+        <br /><br />
+        <ReactPlayer url='http://www.fotonix.it/video/llcd/atrn_2_2m.mp4' light='http://www.fotonix.it/img/llcd/atrn_2_b.png' controls/>
         {/* <br /><br />
         <ReactPlayer url='https://soundcloud.com/cbs-news-radio/web-creator-tim-berners-lee-issues-warnings-on-28th-anniversary-of-world-wide-web' controls height='320'/>
         <br /><br />
