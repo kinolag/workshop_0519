@@ -8,7 +8,7 @@ export default class Player extends Component {
         <h5 className='is-white'>React Player demo</h5>
         <ReactPlayer url='https://www.youtube.com/watch?v=eNzx3PjJ_MA' controls />
         <br /><br />
-        <ReactPlayer url='https://soundcloud.com/modernlove/sets/andy-stott-luxury-problems-1' controls height='320'/>
+        <ReactPlayer url='https://soundcloud.com/modernlove/06-luxury-problems?in=modernlove/sets/andy-stott-luxury-problems-1' controls height='320'/>
         <br /><br />
         <ReactPlayer url='https://www.youtube.com/watch?v=TvEC7A7IoMU&list=PL3wUEM4g4GuI8CdUii3GRALz4p5eeAid-' controls light playlist />
 
