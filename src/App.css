@@ -60,6 +60,10 @@
   color: white;
 }
 
+.is-orange {
+  color: orange;
+}
+
 .txt-l {
   text-align: left;
 }
@@ -76,12 +80,21 @@
   align-items: flex-start;
 }
 
+.opacity-0-25 {
+  opacity: 0.25;
+}
+
 .opacity-0-50 {
   opacity: 0.50;
 }
 
 .opacity-0-75 {
   opacity: 0.75;
+}
+
+.mar-10 {
+  border: 2px dashed #111111;
+  margin: 10px;
 }
 
 .pad-10 {
@@ -97,3 +110,47 @@
   50% {opacity: 0.96}
   100% {opacity: 0.80;}
 } */
+
+.w10 {
+  width: 10vw;
+}
+
+.w13 {
+  width: 13vw;
+}
+
+.w20 {
+  width: 20vw;
+}
+
+.w25 {
+  width: 25vw;
+}
+
+.w30 {
+  width: 30vw;
+}
+
+.w33 {
+  width: 33vw;
+}
+
+.w40 {
+  width: 40vw;
+}
+
+.w50 {
+  width: 50vw;
+}
+
+.w60 {
+  width: 60vw;
+}
+
+.w66 {
+  width: 66vw;
+}
+
+.w75 {
+  width: 75vw;
+}
