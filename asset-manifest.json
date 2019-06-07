@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio_0519/static/css/main.be022df8.chunk.css",
-    "main.js": "/portfolio_0519/static/js/main.7122e9d6.chunk.js",
-    "main.js.map": "/portfolio_0519/static/js/main.7122e9d6.chunk.js.map",
-    "runtime~main.js": "/portfolio_0519/static/js/runtime~main.4b752059.js",
-    "runtime~main.js.map": "/portfolio_0519/static/js/runtime~main.4b752059.js.map",
-    "static/js/2.ee3c60c8.chunk.js": "/portfolio_0519/static/js/2.ee3c60c8.chunk.js",
-    "static/js/2.ee3c60c8.chunk.js.map": "/portfolio_0519/static/js/2.ee3c60c8.chunk.js.map",
-    "index.html": "/portfolio_0519/index.html",
-    "precache-manifest.27ce887ca9a9c5465743a79b8aa83643.js": "/portfolio_0519/precache-manifest.27ce887ca9a9c5465743a79b8aa83643.js",
-    "service-worker.js": "/portfolio_0519/service-worker.js",
-    "static/css/main.be022df8.chunk.css.map": "/portfolio_0519/static/css/main.be022df8.chunk.css.map",
-    "static/media/ball_tras_640_i.png": "/portfolio_0519/static/media/ball_tras_640_i.f16fd25e.png"
+    "main.css": "/workshop_0519/static/css/main.40b8ba66.chunk.css",
+    "main.js": "/workshop_0519/static/js/main.a57e492b.chunk.js",
+    "main.js.map": "/workshop_0519/static/js/main.a57e492b.chunk.js.map",
+    "runtime~main.js": "/workshop_0519/static/js/runtime~main.fc6cea62.js",
+    "runtime~main.js.map": "/workshop_0519/static/js/runtime~main.fc6cea62.js.map",
+    "static/js/2.ee3c60c8.chunk.js": "/workshop_0519/static/js/2.ee3c60c8.chunk.js",
+    "static/js/2.ee3c60c8.chunk.js.map": "/workshop_0519/static/js/2.ee3c60c8.chunk.js.map",
+    "index.html": "/workshop_0519/index.html",
+    "precache-manifest.e187773562f42fd8d6d4f6e12ede8504.js": "/workshop_0519/precache-manifest.e187773562f42fd8d6d4f6e12ede8504.js",
+    "service-worker.js": "/workshop_0519/service-worker.js",
+    "static/css/main.40b8ba66.chunk.css.map": "/workshop_0519/static/css/main.40b8ba66.chunk.css.map",
+    "static/media/ball_tras_640_i.png": "/workshop_0519/static/media/ball_tras_640_i.f16fd25e.png"
   }
 }
