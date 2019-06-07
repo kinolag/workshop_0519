@@ -14,7 +14,7 @@
 
 .App-logo {
   /* animation: App-logo-spin infinite 10s linear; */
-  height: 40vmin;
+  /* height: 40vmin; */
   pointer-events: none;
   animation-name: rotation;
 	animation-duration: 12s;
@@ -153,4 +153,28 @@
 
 .w75 {
   width: 75vw;
+}
+
+/* new links */
+  
+.A1n{
+  text-decoration: underline;
+  color: slategrey;
+  letter-spacing: 0.08em;
+}
+
+.A1n:hover {
+    text-decoration: none;
+    color: #FF5000;
+}
+
+.A2n{
+  text-decoration: underline;
+  color: orange;
+  letter-spacing: 0.08em;
+}
+
+.A2n:hover {
+    text-decoration: none;
+    color: #FF5000;
 }

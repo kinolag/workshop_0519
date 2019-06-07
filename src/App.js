@@ -4,6 +4,7 @@ import Intro from './components/Intro';
 import Background from './components/Background';
 import Embed01 from './components/Embed01';
 import Player from './components/ReactPlayer01'
+// eslint-disable-next-line
 import ball from './img/ball_tras_640_i.png';
 
 function App() {

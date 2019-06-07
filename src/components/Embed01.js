@@ -9,7 +9,7 @@ export default class Embed01 extends React.Component {
         <div className="pad-10">
 
             <p className='is-orange'>Embedded music from mixcloud ({'<iframe> tag'})</p>
-            <iframe className='pad-10 mar-10' width="40%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fjazzameianoite%2Fjazz-a-meia-noite-with-enrico-rava%2F" frameborder="0" ></iframe>
+            <iframe className='pad-10 mar-10' width="40%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fjazzameianoite%2Fjazz-a-meia-noite-with-enrico-rava%2F" frameborder="0" title="Jazz A Meia Noite"></iframe>
 
 
             {/* <p className='is-white'>Embedded music on bandcamp</p>
